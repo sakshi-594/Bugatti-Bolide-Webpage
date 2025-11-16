@@ -31,7 +31,7 @@ The webpage highlights the Bolide’s extreme performance, engineering innovatio
 
 Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sakshi-594/Bugatti-Bolide-Webpage.git
 
 
 Open index.html in any modern browser.
